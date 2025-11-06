@@ -1,4 +1,4 @@
-package task1
+package main
 
 import "slices"
 
