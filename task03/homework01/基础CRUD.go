@@ -1,7 +1,8 @@
-package homework01
+package main
 
 import (
 	"fmt"
+
 	"gorm.io/gorm"
 )
 
