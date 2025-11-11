@@ -1,4 +1,4 @@
-module task003
+module task03
 
 go 1.25
 
